@@ -8,6 +8,9 @@ In this project, the task is to predict the traffic flow on 2016/04/20 from 8:00
 Keras, PaddlePaddle, and Python
 
 ## Usage
+The visualization of traffic flow is shown following, each node represents a road, each edge represent a link between roads. The darker the node the higher the traffic flow.
+
+`YouTube link` https://youtu.be/lYXRxbPgaeA
 
 ./Preprocessing/ combine the spacial and traffic flow information
 
