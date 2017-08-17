@@ -13,9 +13,6 @@ Keras, PaddlePaddle, and Python
 
 ./TrainingBatch/ transform the preprocessing data to training batch
 
-
-show_***.py Show the animation of the seed points
-
 ```sh
 python modelPredict.py
 python predict-result.py
