@@ -11,6 +11,8 @@ Keras, PaddlePaddle, and Python
 The visualization of traffic flow is shown following, each node represents a road, each edge represent a link between roads. The darker the node the higher the traffic flow.
 
 `YouTube link` https://youtu.be/lYXRxbPgaeA
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/traffic_prediction/master/Screen%20Shot%202017-08-17%20at%207.02.16%20PM.png)
+
 
 ./Preprocessing/ combine the spacial and traffic flow information
 
